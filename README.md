@@ -1,3 +1,3 @@
 # 1530-test-repo
 
-Members: Yifei Tian, Bakhtiyor Alimov, Dylan Do, 
+Members: Yifei Tian, Bakhtiyor Alimov, Dylan Do, Edward Cho
